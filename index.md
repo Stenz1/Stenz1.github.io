@@ -1,10 +1,12 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script language="JavaScript">
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <script language="JavaScript">
 <!--hide
 
 var password;
 var pass1="encinitas";
 
-password=prompt('Please enter the password for this site',' ');
+password=prompt('Please enter the password for this site','');
 
 if (password==pass1)
 alert('Welcome, click OK to view page.');
@@ -14,7 +16,9 @@ window.location="http://google.com";
 
 //-->
 </script>
-    </head><body><h1>Stenzlab</h1>
+    </head>
+    <body
+          ><h1>Stenzlab</h1>
     
 
 
@@ -80,4 +84,5 @@ window.location="http://google.com";
     <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Best Quality</a>
 <h3>Current Projects</h3><img src="./Stenz13. pass = encinitas_files/4e63e097b95862ce5d78ae5237d358c5.gif">
 
-</body></html>
+</body>
+</html>
