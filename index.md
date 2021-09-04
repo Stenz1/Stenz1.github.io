@@ -33,6 +33,8 @@ window.location="http://google.com";
     <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Most Successful</a>
 
     <a href="https://www.youtube.com/watch?v=QoczGmZYiRw"> Most Notorious</a>
+        
+    <a href="https://www.youtube.com/watch?v=lFT3KUpysyg"> Best Quality</a>
 
     <a href="https://www.youtube.com/channel/UCXkh5rzwQuDVBmZVZXM_WGw"> Personal Channel</a>
     
@@ -42,17 +44,17 @@ window.location="http://google.com";
 
     
 <h3>Music</h3>
-     <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Most Successful</a>
+     <a href="https://open.spotify.com/track/5PtDrM1aOTvw9QcKaXcDQ0?si=1b20bf82414d4600"> Most Successful</a>
 
-    <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Personal Favorite</a>
+    <a href="https://soundcloud.com/stefanssound/catholic-school"> Personal Favorite</a>
 
-    <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Best Quality</a>
+    <a href="https://open.spotify.com/track/415cfhOG0IYYmkSCDIsD7E?si=74009f93280a4940"> Best Quality</a>
     
      <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Beat Channel</a>
     
-    <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Personal Soundcloud</a>
+    <a href="https://soundcloud.com/stenz1"> Personal Soundcloud</a>
     
-     <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Personal Spotify</a>
+     <a href="https://open.spotify.com/artist/6uuvJB1DwpX7EBnVFZdGz8?si=HpDigg5nQ2-lJdBpEQUJzA&dl_branch=1"> Personal Spotify</a>
     
     <a href="https://www.youtube.com/watch?v=TK8ayUHDQcA&amp;t"> Stefan Soundcloud</a>
     
